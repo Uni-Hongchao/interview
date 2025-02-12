@@ -56,7 +56,7 @@
 
 + Report
   
- | local_date | city_name | top1_driver_name | order_cnt | area_cnt | city_order_cnt |
+ | local_date | city_name | top1_driver_name | driver_order_cnt | driver_area_cnt | city_total_order_cnt |
  | ----- | ----- | ----- | ----- | ----- | ----- | 
  | 2024-09-02 | Chicago | Mike | 2 | 2 | 4 | 
  | 2024-09-02 | Phoenix | Alex | 1 | 1 | 1 |
