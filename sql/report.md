@@ -56,7 +56,7 @@
 
 + Report
   
- | local_date | city_id | topN_driver_id | driver_order_cnt | driver_area_cnt | city_total_order_cnt |
+ | local_date | city_id | topN_driver_id | driver_order_cnt | zipcode_cnt | city_total_order_cnt |
  | ----- | ----- | ----- | ----- | ----- | ----- | 
  | 2024-09-02 | 10 | 10012 | 2 | 2 | 4 | 
  | 2024-09-02 | 11 | 10120 | 1 | 1 | 1 |
